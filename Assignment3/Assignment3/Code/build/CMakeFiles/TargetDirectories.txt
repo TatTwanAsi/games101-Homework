@@ -1,0 +1,3 @@
+C:/Users/Shum/Desktop/GAMES101-Homework/Assignment3/Assignment3/Code/build/CMakeFiles/Rasterizer.dir
+C:/Users/Shum/Desktop/GAMES101-Homework/Assignment3/Assignment3/Code/build/CMakeFiles/edit_cache.dir
+C:/Users/Shum/Desktop/GAMES101-Homework/Assignment3/Assignment3/Code/build/CMakeFiles/rebuild_cache.dir
