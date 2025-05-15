@@ -1,2 +1,2 @@
 CMakeFiles/Rasterizer.dir/Texture.cpp.obj: \
- C:\Users\Shum\Desktop\GAMES101-Homework\Assignment3\Assignment3\Code\Texture.cpp
+ C:\Users\30821\Desktop\Game101-HW\Assignment3\Assignment3\Code\Texture.cpp
