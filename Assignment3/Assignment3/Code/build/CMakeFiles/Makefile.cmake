@@ -7,11 +7,11 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/OpenCVConfig-version.cmake"
-  "C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/OpenCVConfig.cmake"
-  "C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/x64/mingw/lib/OpenCVConfig.cmake"
-  "C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/x64/mingw/lib/OpenCVModules-release.cmake"
-  "C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/x64/mingw/lib/OpenCVModules.cmake"
+  "C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/OpenCVConfig-version.cmake"
+  "C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/OpenCVConfig.cmake"
+  "C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/x64/mingw/lib/OpenCVConfig.cmake"
+  "C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/x64/mingw/lib/OpenCVModules-release.cmake"
+  "C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/x64/mingw/lib/OpenCVModules.cmake"
   "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCCompiler.cmake.in"
   "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCCompilerABI.c"
   "C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCInformation.cmake"

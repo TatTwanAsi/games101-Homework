@@ -480,18 +480,18 @@ CMakeFiles/Rasterizer.dir/rasterizer.cpp.obj: \
  C:\Users\30821\Desktop\Game101-HW\Assignment3\Assignment3\Code\global.hpp \
  C:\Users\30821\Desktop\Game101-HW\Assignment3\Assignment3\Code\Shader.hpp \
  C:\Users\30821\Desktop\Game101-HW\Assignment3\Assignment3\Code\Texture.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/opencv.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/opencv_modules.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/cvdef.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/version.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/hal/interface.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/cv_cpu_dispatch.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/base.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/cvstd.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/opencv.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/opencv_modules.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/cvdef.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/version.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/hal/interface.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/cv_cpu_dispatch.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/base.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/cvstd.hpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/utility \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_relops.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/cvstd_wrapper.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/cvstd_wrapper.hpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/memory \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_raw_storage_iter.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/align.h \
@@ -502,24 +502,25 @@ CMakeFiles/Rasterizer.dir/rasterizer.cpp.obj: \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/shared_ptr_atomic.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/backward/auto_ptr.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/pstl/glue_memory_defs.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/neon_utils.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/vsx_utils.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/check.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/traits.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/matx.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/saturate.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/fast_math.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/types.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/neon_utils.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/vsx_utils.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/check.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/traits.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/matx.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/saturate.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/fast_math.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/matx.inl.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/types.hpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/cfloat \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/float.h \
  C:/mingw64/x86_64-w64-mingw32/include/float.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/mat.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/bufferpool.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/mat.inl.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/persistence.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/operations.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/cvstd.inl.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/utility.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/mat.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/bufferpool.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/mat.inl.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/persistence.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/operations.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/cvstd.inl.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/utility.hpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/mutex \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/chrono.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/ratio \
@@ -527,57 +528,60 @@ CMakeFiles/Rasterizer.dir/rasterizer.cpp.obj: \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/parse_numbers.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/std_mutex.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/unique_lock.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/optim.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/ovx.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/cvdef.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/calib3d.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/features2d.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/miniflann.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/defines.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/config.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/affine.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/dnn.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/dnn/dnn.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/async.hpp \
- C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/chrono \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/dnn/version.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/dnn/dict.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/dnn/layer.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/dnn/dnn.inl.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/dnn/utils/inference_engine.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/dnn/dnn.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/flann_base.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/general.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/matrix.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/params.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/any.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/defines.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/optim.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/ovx.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/cvdef.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/calib3d.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/features2d.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/miniflann.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/defines.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/config.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/affine.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/utils/logger.hpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/iostream \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/saving.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/nn_index.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/result_set.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/utils/logger.defines.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/utils/logtag.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/dnn.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/dnn/dnn.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/async.hpp \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/chrono \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/dnn/version.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/dnn/dict.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/dnn/layer.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/dnn/dnn.inl.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/dnn/utils/inference_engine.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/dnn/dnn.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/flann_base.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/general.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/matrix.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/params.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/any.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/defines.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/saving.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/nn_index.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/result_set.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/set \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_set.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_multiset.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/all_indices.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/kdtree_index.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/dynamic_bitset.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/dist.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/heap.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/allocator.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/random.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/kdtree_single_index.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/kmeans_index.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/logger.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/all_indices.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/kdtree_index.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/dynamic_bitset.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/dist.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/heap.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/allocator.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/random.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/kdtree_single_index.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/kmeans_index.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/logger.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
  C:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
  C:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/composite_index.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/linear_index.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/hierarchical_clustering_index.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/lsh_index.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/lsh_table.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/composite_index.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/linear_index.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/hierarchical_clustering_index.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/lsh_index.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/lsh_table.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/iomanip \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/locale \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/locale_facets_nonio.h \
@@ -588,45 +592,52 @@ CMakeFiles/Rasterizer.dir/rasterizer.cpp.obj: \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/locale_conv.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/quoted_string.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/math.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/autotuned_index.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/ground_truth.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/index_testing.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/timer.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/flann/sampling.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/highgui.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/imgcodecs.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/videoio.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/imgproc.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/imgproc/segmentation.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/ml.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/ml/ml.inl.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/objdetect.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/objdetect/detection_based_tracker.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/photo.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/warpers.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/warpers.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/cuda.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/cuda_types.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/core/cuda.inl.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/warpers_inl.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/warpers.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/matchers.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/motion_estimators.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/matchers.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/util.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/util_inl.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/autotuned_index.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/ground_truth.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/index_testing.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/timer.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/flann/sampling.h \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/highgui.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/imgcodecs.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/videoio.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/imgproc.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/imgproc/segmentation.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/ml.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/ml/ml.inl.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/objdetect.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/objdetect/aruco_detector.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/objdetect/aruco_dictionary.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/objdetect/aruco_board.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/objdetect/graphical_code_detector.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/objdetect/detection_based_tracker.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/objdetect/face.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/objdetect/charuco_detector.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/objdetect/barcode.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/photo.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/warpers.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/warpers.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/cuda.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/cuda_types.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/core/cuda.inl.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/warpers_inl.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/warpers.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/matchers.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/motion_estimators.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/matchers.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/util.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/util_inl.hpp \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/queue \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/deque \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_deque.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/deque.tcc \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/c++/bits/stl_queue.h \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/camera.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/exposure_compensate.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/seam_finders.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/blenders.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/stitching/detail/camera.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/video.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/video/tracking.hpp \
- C:/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2/video/background_segm.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/camera.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/exposure_compensate.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/seam_finders.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/blenders.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/stitching/detail/camera.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/video.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/video/tracking.hpp \
+ C:/OpenCV-MinGW-Build-OpenCV-4.11.0-x64/include/opencv2/video/background_segm.hpp \
  C:\Users\30821\Desktop\Game101-HW\Assignment3\Assignment3\Code\Triangle.hpp
